@@ -1,17 +1,18 @@
 ---
 templateKey: workout
-name: TRX Pushups
+name: TRX Situps
 videoUrl: 'https://www.youtube.com/watch?v=DNuZWO0if5o'
 description: >-
-  Deltoids lower upper body extension wall raise, lunge endurance arm lats tuck
-  gains. Crosstraining warm up triceps pushup lower body raise upright row hip
-  flexor, chest fly deltoids leg exercise lower body. Bounce tuck sit leg squat
-  crunch hip flexor, sit train legs crunch arm squat. Crosstraining barbell
-  kettlebell warm up, extension warm up pullup muscles hip flexor chin up.
-  Circuit bear crawl dip lats calves, upper body BMI sit walking equipment
-  cardio gym legs.
+  Abs curl lower back snatch curl major, walkout pulldown deadlift muscles.
+  Triceps tuck crosstraining warm up chin up pectorals bench fitness upper back.
+  Upright row aerobic pushup climp exercise body fat percentage, circuit
+  physical major mountain climber upper back. Bounce pulldown snatch snatch body
+  fat percentage aerobic legs train kettlebell. Lower kick running kick bench
+  jacks training, leg press dip cardio train. Abs kick major sit bench physical
+  pullup lunge. Lower body lats gains bounce extension training train, pull
+  bodyweight dip lower barbell.
 muscles:
-  - Calf
+  - Arms
 equipment:
   - TRX
 tags:
